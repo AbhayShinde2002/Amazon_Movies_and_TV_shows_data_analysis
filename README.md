@@ -13,6 +13,7 @@ Welcome to the Amazon Prime Movies and TV Shows Data Analysis project! This proj
 - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
 - [Visualizations](#visualizations)
 - [Insights](#insights)
+- [Contributing](#contributing)
 
 
 ## Introduction
@@ -21,7 +22,7 @@ The purpose of this project is to perform a comprehensive data analysis on the m
 
 ## Data Source
 
-The dataset used in this analysis was obtained from Kaggle. It contains information about various movies and TV shows available on Amazon Prime Video, including titles, genres, ratings, release dates, and more.
+The dataset used in this analysis was obtained from Kaggle [https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows]. It contains information about various movies and TV shows available on Amazon Prime Video, including titles, genres, ratings, release dates, and more.
 
 ## Objectives
 
